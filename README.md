@@ -34,17 +34,16 @@ Mon activité de développement s'articule autour de trois axes principaux :
 ---
 
 ### Activité GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youn-T&show_icons=true&theme=graywhite&count_private=true&hide_border=true&include_all_commits=true" alt="Youn-T GitHub Stats" />
+  <img src="https://readme-stats-snowy-three.vercel.app/api?username=Youn-T&show_icons=true&theme=graywhite&count_private=true&hide_border=true&include_all_commits=true" alt="Youn-T GitHub Stats" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youn-T&layout=compact&theme=graywhite&hide_border=true&langs_count=6&exclude_repo=Youn-T.github.io" alt="Top Languages" />
+  <img src="https://readme-stats-snowy-three.vercel.app/api/top-langs/?username=Youn-T&layout=compact&theme=graywhite&hide_border=true&langs_count=6&exclude_repo=Youn-T.github.io" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Youn-T&theme=graywhite&no-frame=true&margin-w=4&no-bg=true" />
+    <img src="https://readme-stats-snowy-three.vercel.app/?username=Youn-T&theme=graywhite&no-frame=true&margin-w=4&no-bg=true" />
 </div>
