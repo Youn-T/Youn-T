@@ -1,28 +1,18 @@
 # Youn Tanguy
 
-Software Engineer passionné par l'architecture logicielle, la programmation système et les mathématiques appliquées. Mon travail se concentre sur la création d'outils de développement performants et l'exploration d'algorithmes complexes.
+Je suis étudiant en classe de terminale
 
 ---
 
-### Domaines d'Expertise
+### Mes domaines de prédiléction
 
-Mon activité de développement s'articule autour de trois axes principaux :
-
-*   **Ingénierie des Outils de Développement (Developer Tooling)**
-    Conception d'environnements de développement et de solutions de scripting visuel. Je m'intéresse particulièrement à l'UX des développeurs et à l'architecture de compilateurs.
-    *Exemple : Éditeurs de nœuds visuels, transpilateurs.*
-
-*   **Programmation Système & Graphique**
-    Développement bas niveau axé sur la performance et l'optimisation matérielle. J'explore le rendu graphique et le calcul parallèle.
-    *Exemple : Moteurs de rendu 3D, accélération GPU (CUDA), C++.*
-
-*   **Intelligence Artificielle & Algorithmique**
+*   **Réseaux de neurones**
     Implémentation de structures de données avancées et de réseaux de neurones appliqués.
     *Exemple : Réseaux NNUE pour les échecs, algèbre linéaire, Jupyter Notebooks.*
 
 ---
 
-### Compétences Techniques
+### Les langages que j'utilise
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
